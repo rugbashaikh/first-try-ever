@@ -1,3 +1,3 @@
 # first-try-ever
-this is my first Git repos
+This is my first Git Repo.
 Author - Rugba Shaikh
